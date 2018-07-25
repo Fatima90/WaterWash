@@ -1,0 +1,3 @@
+rootProject.name = 'water_wash'
+
+include ':app'
